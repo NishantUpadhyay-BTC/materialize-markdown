@@ -1,17 +1,10 @@
-## Bootstrap Markdown
+## Materialize Markdown
 
-Markdown editing meet Bootstrap.
-
-| Version | Compatibility with Bootstrap |
-| :---: | :---: |
-| Bootstrap Markdown v2.x | **only** compatible with Bootstrap 3.x |
-| Bootstrap Markdown v1.x | **only** compatible with Bootstrap 2.x |
-
-Demo and documentation on [http://toopay.github.io/bootstrap-markdown/](http://toopay.github.io/bootstrap-markdown/)
+Markdown editing meets Materialize.
 
 ### LICENSE
 
-> Copyright 2013-2014 Taufan Aditya
+> Copyright 2013-2015 Taufan Aditya and Richard Smith-Unna
 >
 > Licensed under the Apache License, Version 2.0 (the "License");
 > you may not use this file except in compliance with the License.
